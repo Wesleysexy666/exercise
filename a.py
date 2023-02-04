@@ -1,3 +1,4 @@
 a = 20
 b = a**2
-print(a+b)
+c = 10
+print(a+b+c)
