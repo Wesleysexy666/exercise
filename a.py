@@ -1,10 +1,7 @@
 a = 201
-b = a**2
-<<<<<<< HEAD
+b = a**3
 e = 11
 print(a+b+e)
-=======
-c = 10
-d = 77
-print(a+b+c-d)
->>>>>>> test
+
+
+
